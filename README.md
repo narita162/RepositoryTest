@@ -4,8 +4,5 @@ test
 
 ====
 
-Githubのテスト
-
-##メンバー
 
 *testmember
